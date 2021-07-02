@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>Something</h1>
+    <h1 style="color:yellow;">Something</h1>
     
     
 </body>
