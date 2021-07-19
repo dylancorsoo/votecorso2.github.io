@@ -1,4 +1,4 @@
-document.write("Corso HTTP Test Zone.")
+post = document.write("Corso HTTP Test Zone.")
 
 data = '[{"name" : "Ashwin", "age" : "20"},{"name" : "Abhinandan", "age" : "20"}]';
 
